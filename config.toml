@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/"
+baseURL = "gentle-flower-0c40c0e03.5.azurestaticapps.net"
 title = "Bookworm - Personal Blog Template"
 theme = "bookworm-light-hugo"
 # post pagination
