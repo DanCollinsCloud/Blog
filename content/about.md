@@ -13,8 +13,6 @@ caption:
 social:
   enable: true
   social_links:
-  - link: "https://www.facebook.com/"
-    icon: "lab la-facebook-f"
 
   - link: "https://www.twitter.com/"
     icon: "lab la-twitter"
@@ -26,8 +24,8 @@ social:
     icon: "lab la-github"
 
 # what_i_do
-what_i_do:
-  title: "What I Do"
+certifications:
+  title: "Certifications"
   enable: true
   item:
   - title: "Content Writing"
