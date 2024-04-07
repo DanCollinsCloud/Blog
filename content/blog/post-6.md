@@ -4,7 +4,7 @@ description: "meta description"
 image: "images/post/03.jpg"
 date: 2021-02-03T16:56:47+06:00
 draft: false
-author: "Henara Colii"
+author: "Dan Collins"
 tags: ["Alarm", "Clock"]
 categories: ["LifeStyle"]
 ---

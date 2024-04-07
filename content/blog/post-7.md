@@ -4,7 +4,7 @@ description: "meta description"
 image: "images/post/02.jpg"
 date: 2021-02-04T16:56:47+06:00
 draft: false
-author: "Lubana Era"
+author: "Dan Collins"
 tags: ["Photography"]
 categories: ["Photography"]
 ---

@@ -215,3 +215,9 @@ url = "https://www.instagram.com/"
 [[params.social]]
 icon = "lab la-linkedin-in"       # https://icons8.com/line-awesome
 url = "https://www.linkedin.com/"
+
+
+#################### Custom ############################
+[permalinks]
+  [permalinks.page]
+    blog = '/articles/:year/:month/:slug/'
