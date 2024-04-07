@@ -79,7 +79,7 @@ logo_width = "200px"
 favicon = "images/favicon.png"
 # Meta data
 description = "This is meta description"
-author = "Themefisher"
+author = "Dan Collins"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # search
