@@ -213,7 +213,7 @@ icon = "lab la-github"       # https://icons8.com/line-awesome
 url = "https://www.github.com/"
 
 #[[params.social]]
-#icon = "lab la-facebook-f"        # https://icons8.com/line-awesome
+#icon = "lab la-youtube"        # https://icons8.com/line-awesome
 #url = "https://www.facebook.com/"
 
 #[[params.social]]
