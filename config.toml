@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://gentle-flower-0c40c0e03.5.azurestaticapps.net/"
+baseURL = "https://dancollins.cloud/"
 title = "Bookworm - Personal Blog Template"
 theme = "bookworm-light-hugo"
 # post pagination
@@ -126,15 +126,15 @@ name = "About"
 url = "about/"
 weight = 3
 
-[[menu.main]]
-name = "Contact"
-url = "contact/"
-weight = 4
+#[[menu.main]]
+#name = "Contact"
+#url = "contact/"
+#weight = 4
 
 [[menu.main]]
-name = "Buy Premium"
-url = "https://gethugothemes.com/products/bookworm/"
-weight = 5
+weight = 4
+url = "categories/"
+name = "Categories"
 
 [[menu.main]]
 weight = 6
