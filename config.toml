@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://dancollins.cloud/"
-title = "Bookworm - Personal Blog Template"
+title = "DanCollinsCloud - A blog all around cloud computing and working in tech"
 theme = "bookworm-light-hugo"
 # post pagination
 paginate = "5"
