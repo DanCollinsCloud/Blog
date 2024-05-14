@@ -220,4 +220,4 @@ url = "https://www.youtube.com/@dancollinscloud"
 #################### Custom ############################
 [permalinks]
   [permalinks.page]
-    blog = '/articles/:year/:month/:slug/'
+    blog = '/:year/:month/:slug/'
