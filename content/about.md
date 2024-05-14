@@ -14,14 +14,17 @@ social:
   enable: true
   social_links:
 
-  - link: "https://www.twitter.com/"
+  - link: "https://www.twitter.com/@DanCollinsCloud"
     icon: "lab la-twitter"
     
-  - link: "https://www.linkedin.com/"
+  - link: "https://www.linkedin.com/in/dan-collins-20/"
     icon: "lab la-linkedin-in"
     
-  - link: "https://www.github.com/"
+  - link: "https://github.com/DanCollinsCloud"
     icon: "lab la-github"
+
+  - link: "https://www.youtube.com/@dancollinscloud"
+    icon: "lab la-youtube"
 
 # what_i_do
 certifications:

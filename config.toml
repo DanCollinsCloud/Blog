@@ -202,23 +202,19 @@ weight = 4
 # Social Icons
 [[params.social]]
 icon = "lab la-twitter"          # https://icons8.com/line-awesome
-url = "https://www.twitter.com/"
+url = "https://www.twitter.com/@DanCollinsCloud"
 
 [[params.social]]
 icon = "lab la-linkedin-in"       # https://icons8.com/line-awesome
-url = "https://www.linkedin.com/"
+url = "https://www.linkedin.com/in/dan-collins-20/"
 
 [[params.social]]
 icon = "lab la-github"       # https://icons8.com/line-awesome
-url = "https://www.github.com/"
+url = "https://github.com/DanCollinsCloud"
 
 #[[params.social]]
 #icon = "lab la-youtube"        # https://icons8.com/line-awesome
-#url = "https://www.facebook.com/"
-
-#[[params.social]]
-#icon = "lab la-instagram"          # https://icons8.com/line-awesome
-#url = "https://www.instagram.com/"
+#url = "https://www.youtube.com/@dancollinscloud"
 
 
 #################### Custom ############################
