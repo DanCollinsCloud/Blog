@@ -213,8 +213,8 @@ icon = "lab la-github"       # https://icons8.com/line-awesome
 url = "https://github.com/DanCollinsCloud"
 
 #[[params.social]]
-#icon = "lab la-youtube"        # https://icons8.com/line-awesome
-#url = "https://www.youtube.com/@dancollinscloud"
+icon = "lab la-youtube"        # https://icons8.com/line-awesome
+url = "https://www.youtube.com/@dancollinscloud"
 
 
 #################### Custom ############################
