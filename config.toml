@@ -212,7 +212,7 @@ url = "https://www.linkedin.com/in/dan-collins-20/"
 icon = "lab la-github"       # https://icons8.com/line-awesome
 url = "https://github.com/DanCollinsCloud"
 
-#[[params.social]]
+[[params.social]]
 icon = "lab la-youtube"        # https://icons8.com/line-awesome
 url = "https://www.youtube.com/@dancollinscloud"
 
