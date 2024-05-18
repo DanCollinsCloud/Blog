@@ -15,10 +15,19 @@ jobs:
     runs-on: ubuntu-latest
     name: Build and Deploy Job
     steps:
-      - uses: actions/checkout@v3
+      - name: Get URL from Branch - Main
+        if: github.ref_name == 'main'
+        run: echo "BASEURL=${{ vars.PRODUCTION_URL }}" >> $GITHUB_ENV
+      - name: Get URL from Branch - Other
+        if: github.ref_name != 'main'
+        run: echo "BASEURL=https://${{ vars.DEFAULT_HOST_NAME }}-${{ github.ref_name }}.${{ vars.LOCATION }}.azurestaticapps.net/" >> $GITHUB_ENV
+      - name: Checkout
+        uses: actions/checkout@v3
         with:
           submodules: true
           lfs: false
+      - name: Replace baseURL
+        run: sed -i 's|http://localhost:1313/|${{ env.BASEURL }}|' config.yml
       - name: Build And Deploy
         id: builddeploy
         uses: Azure/static-web-apps-deploy@v1
